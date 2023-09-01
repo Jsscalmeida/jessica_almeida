@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <HEAD>
+        <META charset="utf-8">
+            <title class="title">BLOG jESSICA</title></div>
+            <link rel="stylelesheet" href="style.css">
+        </HEAD>
+    <body>
+        <header>
+            <img src="https://th.bing.com/th/id/OIP.0CEB5X5jPvhqtUqu8xDWagAAAA?pid=ImgDet&rs=1" alt="floresta">
+        </header>
+        <article class="Posts">
+            <header>
+                <h3 class=".posttitle"> Posts</h3>
+            </header>
+        </article>
+        <section>
+            <h1 id="title">Jessica</h1>
+            <p> 
+                <h2 class="subtitle">Apresentação</h2>
+                Futura fullstack 
+            </p>
+        </section>
+        <section>
+            <h3 class="subtitle"> Minha lista de musicas</h3>
+            <a href="https://www.youtube.com/watch?v=8X1a2pG1czM">Good day</a>
+        </section>
+        <footer>
+        </footer>
+    </body>
+</html>
